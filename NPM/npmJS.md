@@ -155,3 +155,4 @@ npm i moment@latest
 # removendo pacotes:
 
 npm uninstall moment
+
